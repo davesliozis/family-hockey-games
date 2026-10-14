@@ -22,6 +22,7 @@
 
 ## Notes
 
+- 2026-04-14: Liz Lang Production employee game.
 - 2022-01-20: Legends League intermission outing.
 - 2022-05-08: Stanley Cup playoffs · Round 1, Game 4.
 - 2023-03-25: LA Jr Kings & LA Lions Club of the Game.
