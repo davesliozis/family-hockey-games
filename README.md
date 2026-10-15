@@ -22,7 +22,7 @@ Updated October 14, 2026. Ticket records cross-referenced with Mac Photos. 14 da
 | 2026-05-10 | Golden Knights at Ducks | Honda Center | Ducks 4–3 | Photo match pending | [Game summary](https://www.nhl.com/scores/htmlreports/20252026/GS030244.HTM) |
 | 2026-09-26 | Ducks at Kings | Crypto.com Arena | Kings 6–2 | Photo match pending | [Game summary](https://www.nhl.com/scores/htmlreports/20262027/GS010052.HTM) |
 
-The October 31, 2025 card includes one family photo from Honda Center. Its embedded capture date matches the game date, and the arena display shows the Detroit matchup.
+Fourteen game entries include selected photos. Three entries still await a matching arena photo. 
 
 April 14, 2026: Liz Lang Production employee game.
 
