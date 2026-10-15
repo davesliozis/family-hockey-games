@@ -1,5 +1,27 @@
 [
   {
+    "date": "2018-10-28",
+    "purchase": "2018-09-03",
+    "matchup": "Rangers at Kings",
+    "venue": "Staples Center",
+    "result": "Kings 4–3",
+    "tickets": 4,
+    "url": "https://www.nhl.com/news/new-york-rangers-los-angeles-kings-game-recap-301371782",
+    "note": "Attendance supported by family arena photos and videos.",
+    "photoMatch": true
+  },
+  {
+    "date": "2019-03-02",
+    "purchase": "Unknown",
+    "matchup": "Blackhawks at Kings",
+    "venue": "Staples Center",
+    "result": "Kings 6–3",
+    "tickets": "Unknown",
+    "url": "https://www.cbssports.com/nhl/gametracker/recap/NHL_20190302_CHI%40LA/",
+    "note": "Attendance supported by family arena photos and videos. Pregame email confirms a purchase; purchase date not established.",
+    "photoMatch": true
+  },
+  {
     "date": "2022-01-20",
     "purchase": "2022-01-12",
     "matchup": "Avalanche at Kings",
@@ -7,7 +29,8 @@
     "result": "Avalanche 4–1",
     "tickets": 2,
     "url": "https://www.foxsports.com/nhl/colorado-avalanche-vs-los-angeles-kings-jan-20-2022-game-boxscore-37453",
-    "note": "Legends League intermission outing."
+    "note": "Legends League intermission outing.",
+    "photoMatch": true
   },
   {
     "date": "2022-05-08",
@@ -17,7 +40,8 @@
     "result": "Kings 4–0",
     "tickets": 4,
     "url": "https://www.hockey-reference.com/boxscores/202205080LAK.html",
-    "note": "Stanley Cup playoffs · Round 1, Game 4."
+    "note": "Stanley Cup playoffs · Round 1, Game 4.",
+    "photoMatch": true
   },
   {
     "date": "2022-11-25",
@@ -27,7 +51,8 @@
     "result": "Kraken 4–2",
     "tickets": 4,
     "url": "https://www.hockey-reference.com/boxscores/202211250VEG.html",
-    "note": ""
+    "note": "",
+    "photoMatch": true
   },
   {
     "date": "2023-03-25",
@@ -37,7 +62,8 @@
     "result": "Kings 4–1",
     "tickets": 4,
     "url": "https://www.hockey-reference.com/boxscores/202303250LAK.html",
-    "note": "LA Jr Kings & LA Lions Club of the Game."
+    "note": "LA Jr Kings & LA Lions Club of the Game.",
+    "photoMatch": true
   },
   {
     "date": "2023-11-11",
@@ -47,7 +73,8 @@
     "result": "Flyers 4–2",
     "tickets": 3,
     "url": "https://www.nhl.com/scores/htmlreports/20232024/GS020221.HTM",
-    "note": "Youth hockey intermission outing. Tickets were transferred onward; family attendance needs confirmation."
+    "note": "Youth hockey intermission outing. Arena media found for this date; original tickets were transferred onward.",
+    "photoMatch": true
   },
   {
     "date": "2024-02-24",
@@ -57,7 +84,8 @@
     "result": "Kings 3–2 (SO)",
     "tickets": 2,
     "url": "https://www.espn.com/nhl/game/_/gameId/401560142/ducks-kings",
-    "note": "Tickets received by transfer. Original purchase date unknown."
+    "note": "Tickets received by transfer. Original purchase date unknown.",
+    "photoMatch": true
   },
   {
     "date": "2024-03-22",
@@ -67,7 +95,8 @@
     "result": "Avalanche 6–1",
     "tickets": 4,
     "url": "https://www.cbssports.com/nhl/gametracker/boxscore/NHL_20240322_CLB%40COL/",
-    "note": ""
+    "note": "",
+    "photoMatch": true
   },
   {
     "date": "2024-11-02",
@@ -77,7 +106,8 @@
     "result": "Blackhawks 4–3 (SO)",
     "tickets": 4,
     "url": "https://www.nhl.com/scores/htmlreports/20242025/ES020176.HTM",
-    "note": ""
+    "note": "",
+    "photoMatch": true
   },
   {
     "date": "2024-12-27",
@@ -87,7 +117,8 @@
     "result": "Golden Knights 6–3",
     "tickets": 4,
     "url": "https://www.hockey-reference.com/boxscores/202412270SJS.html",
-    "note": ""
+    "note": "",
+    "photoMatch": true
   },
   {
     "date": "2025-10-31",
@@ -97,7 +128,9 @@
     "result": "Ducks 5–2",
     "tickets": 4,
     "url": "https://www.espn.com/nhl/boxscore/_/gameId/401802531",
-    "note": ""
+    "note": "",
+    "photoMatch": true,
+    "photo": "ducks-2025-10-31.jpeg"
   },
   {
     "date": "2025-12-27",
@@ -107,7 +140,8 @@
     "result": "Blackhawks 4–3 (SO)",
     "tickets": 4,
     "url": "https://www.nhl.com/scores/htmlreports/20252026/GS020596.HTM",
-    "note": ""
+    "note": "",
+    "photoMatch": true
   },
   {
     "date": "2026-04-09",
@@ -117,7 +151,8 @@
     "result": "Hurricanes 7–2",
     "tickets": 4,
     "url": "https://www.hockey-reference.com/boxscores/202604090CHI.html",
-    "note": ""
+    "note": "",
+    "photoMatch": true
   },
   {
     "date": "2026-04-14",
@@ -127,7 +162,8 @@
     "result": "Canucks 4–3 (OT)",
     "tickets": 4,
     "url": "https://www.nhl.com/scores/htmlreports/20252026/GS021300.HTM",
-    "note": "Liz Lang Production employee game."
+    "note": "Liz Lang Production employee game.",
+    "photoMatch": false
   },
   {
     "date": "2026-05-10",
@@ -137,7 +173,8 @@
     "result": "Ducks 4–3",
     "tickets": 4,
     "url": "https://www.nhl.com/scores/htmlreports/20252026/GS030244.HTM",
-    "note": "Stanley Cup playoffs · Round 2, Game 4."
+    "note": "Stanley Cup playoffs · Round 2, Game 4.",
+    "photoMatch": false
   },
   {
     "date": "2026-09-26",
@@ -147,6 +184,7 @@
     "result": "Kings 6–2",
     "tickets": 10,
     "url": "https://www.nhl.com/scores/htmlreports/20262027/GS010052.HTM",
-    "note": "Preseason afternoon game."
+    "note": "Preseason afternoon game.",
+    "photoMatch": false
   }
 ]
