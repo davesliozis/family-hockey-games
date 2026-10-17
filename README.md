@@ -1,6 +1,6 @@
 # DMS - Family Hockey Games
 
-Updated October 14, 2026. Ticket records cross-referenced with Mac Photos. 14 dates have matching arena media; three await a photo match. Phone-only media is not included.
+Updated October 17, 2026. Ticket records cross-referenced with Mac Photos and family-provided photos. 15 dates have matching arena media; two await a photo match. Additional phone-only media has not been checked.
 
 | Game date | Matchup | Venue | Result | Photo evidence | Statistics |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@ Updated October 14, 2026. Ticket records cross-referenced with Mac Photos. 14 da
 | 2026-05-10 | Golden Knights at Ducks | Honda Center | Ducks 4–3 | Photo match pending | [Game summary](https://www.nhl.com/scores/htmlreports/20252026/GS030244.HTM) |
 | 2026-09-26 | Ducks at Kings | Crypto.com Arena | Kings 6–2 | Photo match pending | [Game summary](https://www.nhl.com/scores/htmlreports/20262027/GS010052.HTM) |
 
-Fourteen game entries include selected photos. Three entries still await a matching arena photo. 
+Fifteen game entries include selected photos. Two entries still await a matching arena photo. 
 
 April 14, 2026: Liz Lang Production employee game.
 
